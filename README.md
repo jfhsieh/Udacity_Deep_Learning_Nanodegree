@@ -1,1 +1,1 @@
-# Udacity_Deep_Learning_Nanodegree
+This repository has four projects which are built neural network models for time series prediction, convolutional networks for image recognition, recurrent networks for sequence generation, and generative adversarial networks for image generation.
